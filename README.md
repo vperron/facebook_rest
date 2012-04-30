@@ -47,12 +47,12 @@ You can find examples of those files (named \*.cmd) in this folder.
 
 The design is very simple:
 
-> #COMMAND_A
+> \#COMMAND_A
 > key1=arg1
 > key2=arg2
-> #COMMAND_B
+> \#COMMAND_B
 > key1=arg1
-> #COMMAND_C
+> \#COMMAND_C
 > etc...
 
 There is nearly no check for correctness of the above specification, so please
